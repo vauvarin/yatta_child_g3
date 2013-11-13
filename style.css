@@ -1,0 +1,138 @@
+/*
+Theme Name: yatta_child_g3
+Theme URI: http://unige.ch
+Description: g3univ.org
+Author: Gilles Vauvarin
+Author URI: kattagami.com
+Version: 1.0.0
+License: GNU General Public License
+License URI: license.txt
+Tags: custom-menu
+Template: yatta
+*/
+
+body {
+	background: #e4e4e4;
+}
+
+.yatta-container {
+	width: 100%;
+}
+
+
+.yatta-zone-container,
+.yatta-zone-bg {
+	width: 70%;
+}
+
+
+
+/* --------------------- Header ---------------------*/
+
+.yatta-zone-bg-header {
+	background: #fff;
+}
+
+.yatta-zone-container-header {
+	position: relative;
+	padding: 8px 40px;
+}
+
+
+.yatta-zone-header-logo,
+.yatta-zone-header-logo-txt {
+	display: inline-block;
+	max-width: 100%;
+}
+
+.yatta-zone-header-logo-txt {
+	position: absolute;
+	font-family: Georgia;
+	font-size: 1.15em;
+	top: 10px;
+	left: 110px;
+}
+
+
+
+/* --------------------- Menu ---------------------*/
+
+.yatta-zone-bg-menu {
+	background: #111;
+}
+
+
+/* --------------------- Slogan ---------------------*/
+
+.yatta-zone-bg-cpt-slogan {
+	background: #194d74; 	
+}
+
+.yatta-zone-container-cpt-slogan {
+	height: 300px;	
+	color: #fff;
+}
+
+.yatta-zone-bg-cpt-slogan-txt {
+	margin-top: 55px;
+	font-size: 2.8em;
+	line-height: 1.2em;	
+}
+
+/* --------------------- University ---------------------*/
+
+.yatta-zone-bg-cpt-university {
+	background: #e4e4e4; 	
+}
+
+
+/* --------------------- Community ---------------------*/
+
+.yatta-zone-bg-cpt-community {
+	background: #fff; 	
+}
+
+
+/* --------------------- Pagetitle ---------------------*/
+
+.yatta-zone-bg-pagetitle {
+	background: #fff;
+}
+
+.yatta-zone-container-pagetitle {
+	padding-top: 40px;
+}
+
+/* --------------------- Pageeditor ---------------------*/
+
+.yatta-zone-bg-pageeditor {
+	background: #fff;
+}
+
+/* --------------------- Footer ---------------------*/
+
+.yatta-zone-bg-footer {
+	background: #111;
+}
+
+.yatta-zone-container-footer {
+	text-align: center;
+}
+
+
+
+/* --------------------- Buddypress ---------------------*/
+
+#buddypress {
+	width: 70%;
+	max-width: 980px;
+	padding: 20px 40px;
+	margin: 0 auto 0 auto;
+	background: #fff;
+}
+
+#whats-new {
+	border: #999999 1px solid;
+	background: #EEEEEE !important;
+}
+
